@@ -61,10 +61,11 @@ This repo is for a collection of tools that are helpful for doing CTFs.
 
 [Hexedit](https://hexed.it/)
 
+[Aperisove](https://www.aperisolve.com/) - "Common Passwords" is usually inacurate due to people uploading fake flags
 
 ## Enumeration and Exploitation
 
-[radare](https://www.radare.org/n/radare2.html)
+[radare2](https://www.radare.org/n/radare2.html)
 
 [Cutter](https://cutter.re/)
 
@@ -76,4 +77,24 @@ This repo is for a collection of tools that are helpful for doing CTFs.
 
 [pwngdb](https://github.com/pwndbg/pwndbg)
 
+[strace](https://strace.io/)
+
+[ltrace](https://man7.org/linux/man-pages/man1/ltrace.1.html)
+
 ## Web Application Exploitation
+
+Chrome dev tools AKA r-click -> inspect
+
+[Burp Suite](https://portswigger.net/burp)
+
+[postman](https://www.postman.com/)
+
+[netcat](https://en.wikipedia.org/wiki/Netcat)
+
+[Sql Injection basics](https://www.w3schools.com/sql/sql_injection.asp)
+
+[Common sql bypass strings](https://book.hacktricks.xyz/pentesting-web/login-bypass/sql-login-bypass)
+
+[Cookie Editor](https://github.com/moustachauve/cookie-editor)
+
+[xss basics](https://portswigger.net/web-security/cross-site-scripting/exploiting)
