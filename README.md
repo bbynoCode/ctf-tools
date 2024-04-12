@@ -61,6 +61,8 @@ This repo is for a collection of tools that are helpful for doing CTFs.
 
 [Hexedit](https://hexed.it/)
 
+[imHex](https://github.com/WerWolv/ImHex)
+
 [Aperisove](https://www.aperisolve.com/) - "Common Passwords" is usually inacurate due to people uploading fake flags
 
 ## Enumeration and Exploitation
@@ -72,6 +74,8 @@ This repo is for a collection of tools that are helpful for doing CTFs.
 [Ghidra](https://ghidra-sre.org/)
 
 [Binja](https://binary.ninja/)
+
+[GEF](https://github.com/hugsy/gef)
 
 [GDB](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 
